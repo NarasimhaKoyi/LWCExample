@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/narasimhakoyi.lwc-l4axvacn",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve gifH6xNZxCQH1wWaPDVE --open"
+  }
+}
